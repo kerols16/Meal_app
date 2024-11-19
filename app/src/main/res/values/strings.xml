@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meals</string>
+    <string name="enjoy">Enjoy your Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructions">Instructions :</string>
+    <string name="how_to_cook_it">How to cook it</string>
+    <string name="todo">TODO</string>
+    <string name="beef">Beef</string>
+    <string name="type_meal_name">Type meal name ...</string>
+</resources>
